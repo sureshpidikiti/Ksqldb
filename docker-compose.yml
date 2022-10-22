@@ -1,5 +1,5 @@
 ---
-version: '1'
+version: '2'
 ## This is to spin ksql environment with community CP kafka, ksql db and ksql cli.
 
 services:
